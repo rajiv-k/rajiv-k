@@ -1,6 +1,6 @@
 <h1 align="center">
 
-![Rajiv's github stats](https://github-readme-stats.vercel.app/api?username=rajiv-k&show_icons=true&rank_icon=github)
+![Rajiv's github stats](https://github-readme-stats.vercel.app/api?username=rajiv-k&show_icons=true&rank_icon=github&theme=gruvbox)
 
 </h1>
 
