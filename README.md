@@ -1,3 +1,9 @@
+### Hi there, I'm Rajiv 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/Rajiv%20Kushwaha-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&link=https://www.linkedin.com/in/rajiv-kushwaha/)](https://www.linkedin.com/in/rajiv-kushwaha/)
+
+<br>
+
 <h1 align="center">
 
 ![Rajiv's github stats](https://github-readme-stats.vercel.app/api?username=rajiv-k&show_icons=true&rank_icon=github&theme=gruvbox)
